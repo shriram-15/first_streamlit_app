@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title{'My first repo!'}
+streamlit.title('My first repo!')
