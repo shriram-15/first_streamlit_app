@@ -1,5 +1,6 @@
 import streamlit
 import pandas
+import snowflake.connector
 streamlit.title('My first repo!')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
